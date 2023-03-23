@@ -1,8 +1,0 @@
-git init
-git status
-git add <file name> 
-git restore <file name> => discard the changes
-git commit -m "message first version"
-git config --global user.email "girijaprasadbhattarai322@gmail.com"
-git config --global user.name "Girija Prasad Bhattarai"
-git config --list
